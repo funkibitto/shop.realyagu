@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phalcon/incubator": "*",
+        "vlucas/phpdotenv": "^2.4",
+        "php": ">=7.0",
+        "ext-phalcon": ">=3.0.0",
+        "ienaga/phalcon-redis-plugin": "*",
+        "swiftmailer/swiftmailer": "^5.4",
+        "amazonwebservices/aws-sdk-for-php": "~1.0"
+    }
+}
